@@ -4,3 +4,4 @@
 /evaluation/models_old
 *.pyc
 /evaluation/figs
+evaluation/config.ini
