@@ -1,0 +1,13 @@
+h5py==3.10.0
+matplotlib==3.8.0
+numpy==1.26.4
+pandas==2.2.1
+Pillow==10.2.0
+scipy==1.11.4
+seaborn==0.13.2
+segformer_pytorch==0.0.6
+simple_slurm==0.2.7
+skimage==0.0
+torch==2.2.1
+tqdm==4.65.2
+

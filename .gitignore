@@ -1,0 +1,6 @@
+
+*.pkl
+/evaluation/models
+/evaluation/models_old
+*.pyc
+/evaluation/figs
