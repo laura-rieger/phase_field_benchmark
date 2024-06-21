@@ -23,8 +23,9 @@ cd evaluation
 pip install -r requirements.txt
 
 
+## Acknowledgments
 
-
+This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No 957189 (BIG-MAP).
 
 ## License
 
