@@ -1,7 +1,7 @@
 # Setting the Standard: A Benchmark Dataset and Baseline Metrics for Machine Learning in Phase Field Prediction
 
 This repository contains the code associated with the paper titled "Setting the Standard: A Benchmark Dataset and Baseline Metrics for Machine Learning in Phase Field Prediction".
-
+The corresponding dataset can be found under the DOI 10.11583/DTU.25562364
 
 ## Repository Contents
 
